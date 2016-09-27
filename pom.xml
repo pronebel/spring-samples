@@ -16,6 +16,7 @@
 	</properties>
 	<modules>
 		<module>spring-jdbc-gen</module>
+		<module>spring-boot-rest</module>
 	</modules>
 	<dependencyManagement>
 	</dependencyManagement>
