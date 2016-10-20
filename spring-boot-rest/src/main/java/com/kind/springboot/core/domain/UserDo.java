@@ -7,8 +7,8 @@ import javax.persistence.Table;
 
 /**
  * 用户.
- * @author cary
  *
+ * @author cary
  */
 @Entity
 @Table(name = "t_user")

@@ -7,13 +7,15 @@ import freemarker.template.Template;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 
-import java.io.*;
+import java.io.ByteArrayOutputStream;
+import java.io.File;
+import java.io.OutputStreamWriter;
+import java.io.Writer;
 import java.util.Map;
 
 public class FreemarkerAnalyer {
-    private static final Logger log = Logger.getLogger(FreemarkerAnalyer.class);
-
     public static final String CHARSET = "UTF-8";
+    private static final Logger log = Logger.getLogger(FreemarkerAnalyer.class);
 
     public static Template getTemplate(String templateName) {
         try {

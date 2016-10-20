@@ -1,13 +1,12 @@
 package com.kind.springboot.common.config;
 
 /**
- * 
  * Function: 用户常量. <br/>
  * Date:     2016年8月11日 上午11:31:57 <br/>
- * @author   weiguo.liu
- * @version  
- * @since    JDK 1.7
+ *
+ * @author weiguo.liu
  * @see
+ * @since JDK 1.7
  */
 public class UserConstants {
 

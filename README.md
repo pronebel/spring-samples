@@ -3,14 +3,16 @@
     <p>
     spring相关技术栈,基于spring jdbcTemplate model，dao,service代码生成，
     基于spring boot 和swagger-ui集成GUI测试环境的Rest服务，基于MySQL和Redis。
+    基于Spring，Jedis封装的Redis客户端
     </p>
 </div>
 
 <div>
     <h3>项目介绍</h3>
     <ul>
-        <li>spring-jdbc-gen  基于spring jdbcTemplate的代码生成工具</li>
-        <li>spring-boot-rest 基于spring boot和swagger-ui的Rest服务</li>
+        <li>spring-jdbc-gen     基于spring jdbcTemplate的代码生成工具</li>
+        <li>spring-boot-rest    基于spring boot和swagger-ui的Rest服务</li>
+        <li>spring-redis-client 基于Spring,Jedis封装的一个Redis客户端</li>
        
     </ul>
 </div>

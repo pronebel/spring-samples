@@ -1,13 +1,12 @@
 package com.kind.springboot.common.token;
 
 /**
- * 
  * Function:TokenDto，可以增加字段提高安全性，例如时间戳、URL签名. <br/>
  * Date:     2016年8月11日 下午1:10:19 <br/>
- * @author   weiguo.liu
- * @version  
- * @since    JDK 1.7
+ *
+ * @author weiguo.liu
  * @see
+ * @since JDK 1.7
  */
 public class TokenDto {
 
