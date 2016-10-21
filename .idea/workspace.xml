@@ -1,63 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58f6b016-c014-498a-918f-cd742cdd70db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-rest/spring-boot-rest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-jdbc-gen/spring-jdbc-gen.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-samples.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/annotation/Authorization.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/annotation/Authorization.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/interceptor/AuthorizationInterceptor.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/interceptor/AuthorizationInterceptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/annotation/CurrentUser.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/annotation/CurrentUser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/resolvers/CurrentUserMethodArgumentResolver.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/resolvers/CurrentUserMethodArgumentResolver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/src/main/java/com/kind/core/configration/CustomizedPropertyConfigurer.java" afterPath="$PROJECT_DIR$/spring-jdbc-gen/src/main/java/com/kind/core/configration/CustomizedPropertyConfigurer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/src/main/java/com/kind/core/analyze/FreemarkerAnalyer.java" afterPath="$PROJECT_DIR$/spring-jdbc-gen/src/main/java/com/kind/core/analyze/FreemarkerAnalyer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/src/main/java/com/kind/run/Generate.java" afterPath="$PROJECT_DIR$/spring-jdbc-gen/src/main/java/com/kind/run/Generate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/config/MvcConfig.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/config/MvcConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/src/main/java/com/kind/core/configration/PropertyReloader.java" afterPath="$PROJECT_DIR$/spring-jdbc-gen/src/main/java/com/kind/core/configration/PropertyReloader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/manager/impl/RedisTokenManager.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/manager/impl/RedisTokenManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/dto/ResultMsg.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/dto/ResultMsg.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/config/ResultStatus.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/config/ResultStatus.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/rest/SampleController.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/rest/SampleController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/config/SwaggerConfig.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/config/SwaggerConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/rest/TokenController.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/rest/TokenController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/token/TokenDto.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/token/TokenDto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/manager/TokenManager.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/manager/TokenManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/config/UserConstants.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/common/config/UserConstants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/domain/UserDo.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/domain/UserDo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/repository/UserRepository.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/repository/UserRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/service/UserService.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/service/UserService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/com/kind/springboot/core/service/impl/UserServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/backbone-min.js" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/backbone-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/src/main/resources/beans.xml" afterPath="$PROJECT_DIR$/spring-jdbc-gen/src/main/resources/beans.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/src/main/resources/template/dao.ftl" afterPath="$PROJECT_DIR$/spring-jdbc-gen/src/main/resources/template/dao.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/src/main/resources/template/daoImpl.ftl" afterPath="$PROJECT_DIR$/spring-jdbc-gen/src/main/resources/template/daoImpl.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/handlebars-2.0.0.js" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/handlebars-2.0.0.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/highlight.7.3.pack.js" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/highlight.7.3.pack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/index.html" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/jquery-1.8.0.min.js" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/jquery-1.8.0.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/jquery.ba-bbq.min.js" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/jquery.ba-bbq.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/jquery.slideto.min.js" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/jquery.slideto.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/jquery.wiggle.min.js" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/jquery.wiggle.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/marked.js" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/marked.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/src/main/resources/template/model.ftl" afterPath="$PROJECT_DIR$/spring-jdbc-gen/src/main/resources/template/model.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/o2c.html" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/o2c.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/src/main/java/com/kind/core/analyze/package-info.java" afterPath="$PROJECT_DIR$/spring-jdbc-gen/src/main/java/com/kind/core/analyze/package-info.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/src/main/java/com/kind/core/configration/package-info.java" afterPath="$PROJECT_DIR$/spring-jdbc-gen/src/main/java/com/kind/core/configration/package-info.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/pom.xml" afterPath="$PROJECT_DIR$/spring-jdbc-gen/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/css/print.css" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/css/print.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/css/reset.css" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/css/screen.css" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/css/screen.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/src/main/resources/template/service.ftl" afterPath="$PROJECT_DIR$/spring-jdbc-gen/src/main/resources/template/service.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc-gen/src/main/resources/template/serviceImpl.ftl" afterPath="$PROJECT_DIR$/spring-jdbc-gen/src/main/resources/template/serviceImpl.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/css/style.css" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/swagger-oauth.js" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/swagger-oauth.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/swagger-ui.js" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/swagger-ui.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/swagger-ui.min.js" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/swagger-ui.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/css/typography.css" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/css/typography.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/underscore-min.js" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/underscore-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/underscore-min.map" afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/public/lib/underscore-min.map" />
-    </list>
+    <list default="true" id="58f6b016-c014-498a-918f-cd742cdd70db" name="Default" comment="" />
     <ignored path="spring-samples.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/spring-boot-rest/target/" />
@@ -80,28 +24,7 @@
     <favorites_list name="spring-samples" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="17" selection-start-line="8" selection-start-column="3" selection-end-line="15" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-redis-client/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.02881356">
-              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -154,6 +77,20 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
+          <option name="myItemId" value="spring-redis-client" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
           <option name="myItemId" value="spring-jdbc-gen" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
@@ -162,20 +99,6 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="spring-redis-client" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
@@ -212,7 +135,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -231,22 +153,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-redis-client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
@@ -256,6 +165,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -515,6 +425,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
@@ -525,48 +441,61 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="58f6b016-c014-498a-918f-cd742cdd70db" name="Default" comment="" />
       <created>1476953294380</created>
       <option name="number" value="Default" />
       <updated>1476953294380</updated>
-      <workItem from="1476953295837" duration="398000" />
+      <workItem from="1476953295837" duration="1454000" />
+      <workItem from="1476957776100" duration="12000" />
+      <workItem from="1477044875739" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="398000" />
+    <option name="totallyTimeSpent" value="1480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18869936" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18283582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -576,18 +505,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="17" selection-start-line="8" selection-start-column="3" selection-end-line="15" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-redis-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.02881356">
           <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43220338">
+          <caret line="15" column="17" selection-start-line="8" selection-start-column="3" selection-end-line="15" selection-end-column="17" />
           <folding />
         </state>
       </provider>
