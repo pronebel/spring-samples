@@ -1,6 +1,5 @@
 .project
 .classpath
-.spring-boot-rest.iml
 /.settings/
 /target/
 /.idea/
